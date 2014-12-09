@@ -1,0 +1,57 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	background-color: #458FFF;
+	font-weight: 300;
+}
+.modal-body, .modal-title {
+	color:black;
+}
+
+h1 {
+	text-shadow: 3px 3px 3px #4791FF;
+}
+
+#arr {
+	border: 2px solid black;
+	border-radius: 10px;
+	
+}
+
+#image1 {
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+#image2 {
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+#image3 {
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+.container {
+	background-color: #474747;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+	margin-left: 10px;
+	border-radius: 20px;
+}
